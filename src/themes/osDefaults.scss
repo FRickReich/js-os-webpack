@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+// #6e7f80	(110,127,128)
+// #536872	(83,104,114)
+// #708090	(112,128,144)
+// #536878	(83,104,120)
+// #36454f	(54,69,79)
+
+#app {
+    background: rgb(54, 69, 79);
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
